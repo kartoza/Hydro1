@@ -1,0 +1,275 @@
+0...0...0...10...20...30...40...50...60...70...80...90...100 - done.
+10...10..20..0...10...20...30...40...50...60...70...80...90...100 - done.
+.20...30...40...30..50...40..60....50..70......80Usage: gdal_translate [--help-general] [--long-usage]
+       [-ot {Byte/Int16/UInt16/UInt32/Int32/Float32/Float64/
+             CInt16/CInt32/CFloat32/CFloat64}] [-strict]
+       [-of format] [-b band] [-mask band] [-expand {gray|rgb|rgba}]
+       [-outsize xsize[%]|0 ysize[%]|0] [-tr xres yres]
+       [-r {nearest,bilinear,cubic,cubicspline,lanczos,average,mode}]
+       [-unscale] [-scale[_bn] [src_min src_max [dst_min dst_max]]]* [-exponent[_bn] exp_val]*
+       [-srcwin xoff yoff xsize ysize] [-epo] [-eco]
+       [-projwin ulx uly lrx lry] [-projwin_srs srs_def]
+       [-a_srs srs_def] [-a_ullr ulx uly lrx lry] [-a_nodata value]
+       [-a_scale value] [-a_offset value]
+       [-gcp pixel line easting northing [elevation]]*
+       |-colorinterp{_bn} {red|green|blue|alpha|gray|undefined}]
+       |-colorinterp {red|green|blue|alpha|gray|undefined},...]
+       [-mo "META-TAG=VALUE"]* [-q] [-sds]
+       [-co "NAME=VALUE"]* [-stats] [-norat]
+       [-oo NAME=VALUE]*
+       src_dataset dst_dataset
+Usage: gdal_translate [--help-general] [--long-usage]
+       [-ot {Byte/Int16/UInt16/UInt32/Int32/Float32/Float64/
+             CInt16/CInt32/CFloat32/CFloat64}] [-strict]
+       [-of format] [-b band] [-mask band] [-expand {gray|rgb|rgba}]
+       [-outsize xsize[%]|0 ysize[%]|0] [-tr xres yres]
+       [-r {nearest,bilinear,cubic,cubicspline,lanczos,average,mode}]
+       [-unscale] [-scale[_bn] [src_min src_max [dst_min dst_max]]]* [-exponent[_bn] exp_val]*
+       [-srcwin xoff yoff xsize ysize] [-epo] [-eco]
+       [-projwin ulx uly lrx lry] [-projwin_srs srs_def]
+       [-a_srs srs_def] [-a_ullr ulx uly lrx lry] [-a_nodata value]
+       [-a_scale value] [-a_offset value]
+       [-gcp pixel line easting northing [elevation]]*
+       |-colorinterp{_bn} {red|green|blue|alpha|gray|undefined}]
+       |-colorinterp {red|green|blue|alpha|gray|undefined},...]
+       [-mo "META-TAG=VALUE"]* [-q] [-sds]
+       [-co "NAME=VALUE"]* [-stats] [-norat]
+       [-oo NAME=VALUE]*
+       src_dataset dst_dataset
+60.....90.70...80....100 - done.
+..90...100 - done.
+0...10...20...30...40Usage: gdal_translate [--help-general] [--long-usage]
+       [-ot {Byte/Int16/UInt16/UInt32/Int32/Float32/Float64/
+             CInt16/CInt32/CFloat32/CFloat64}] [-strict]
+       [-of format] [-b band] [-mask band] [-expand {gray|rgb|rgba}]
+       [-outsize xsize[%]|0 ysize[%]|0] [-tr xres yres]
+       [-r {nearest,bilinear,cubic,cubicspline,lanczos,average,mode}]
+       [-unscale] [-scale[_bn] [src_min src_max [dst_min dst_max]]]* [-exponent[_bn] exp_val]*
+       [-srcwin xoff yoff xsize ysize] [-epo] [-eco]
+       [-projwin ulx uly lrx lry] [-projwin_srs srs_def]
+       [-a_srs srs_def] [-a_ullr ulx uly lrx lry] [-a_nodata value]
+       [-a_scale value] [-a_offset value]
+       [-gcp pixel line easting northing [elevation]]*
+       |-colorinterp{_bn} {red|green|blue|alpha|gray|undefined}]
+       |-colorinterp {red|green|blue|alpha|gray|undefined},...]
+       [-mo "META-TAG=VALUE"]* [-q] [-sds]
+       [-co "NAME=VALUE"]* [-stats] [-norat]
+       [-oo NAME=VALUE]*
+       src_dataset dst_dataset
+...50...60...70...80...90...100 - done.
+Usage: gdal_translate [--help-general] [--long-usage]
+       [-ot {Byte/Int16/UInt16/UInt32/Int32/Float32/Float64/
+             CInt16/CInt32/CFloat32/CFloat64}] [-strict]
+       [-of format] [-b band] [-mask band] [-expand {gray|rgb|rgba}]
+       [-outsize xsize[%]|0 ysize[%]|0] [-tr xres yres]
+       [-r {nearest,bilinear,cubic,cubicspline,lanczos,average,mode}]
+       [-unscale] [-scale[_bn] [src_min src_max [dst_min dst_max]]]* [-exponent[_bn] exp_val]*
+       [-srcwin xoff yoff xsize ysize] [-epo] [-eco]
+       [-projwin ulx uly lrx lry] [-projwin_srs srs_def]
+       [-a_srs srs_def] [-a_ullr ulx uly lrx lry] [-a_nodata value]
+       [-a_scale value] [-a_offset value]
+       [-gcp pixel line easting northing [elevation]]*
+       |-colorinterp{_bn} {red|green|blue|alpha|gray|undefined}]
+       |-colorinterp {red|green|blue|alpha|gray|undefined},...]
+       [-mo "META-TAG=VALUE"]* [-q] [-sds]
+       [-co "NAME=VALUE"]* [-stats] [-norat]
+       [-oo NAME=VALUE]*
+       src_dataset dst_dataset
+Usage: gdal_translate [--help-general] [--long-usage]
+       [-ot {Byte/Int16/UInt16/UInt32/Int32/Float32/Float64/
+             CInt16/CInt32/CFloat32/CFloat64}] [-strict]
+       [-of format] [-b band] [-mask band] [-expand {gray|rgb|rgba}]
+       [-outsize xsize[%]|0 ysize[%]|0] [-tr xres yres]
+       [-r {nearest,bilinear,cubic,cubicspline,lanczos,average,mode}]
+       [-unscale] [-scale[_bn] [src_min src_max [dst_min dst_max]]]* [-exponent[_bn] exp_val]*
+       [-srcwin xoff yoff xsize ysize] [-epo] [-eco]
+       [-projwin ulx uly lrx lry] [-projwin_srs srs_def]
+       [-a_srs srs_def] [-a_ullr ulx uly lrx lry] [-a_nodata value]
+       [-a_scale value] [-a_offset value]
+       [-gcp pixel line easting northing [elevation]]*
+       |-colorinterp{_bn} {red|green|blue|alpha|gray|undefined}]
+       |-colorinterp {red|green|blue|alpha|gray|undefined},...]
+       [-mo "META-TAG=VALUE"]* [-q] [-sds]
+       [-co "NAME=VALUE"]* [-stats] [-norat]
+       [-oo NAME=VALUE]*
+       src_dataset dst_dataset
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 6000, 6000
+0Input file size is 17760, 17520
+0Input file size is 17760, 17520
+0Input file size is 6000, 6000
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 6000, 6000
+0...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...0...10...10..0...10...20...30...40...50...60...70...80...90...100 - done.
+20...20...30..30....40.40.....50.50......60.60....70..70....80.80....90..90Input file size is 17760, 17520
+0...100 - done.
+...100 - done.
+Input file size is 17760, 17520
+0Input file size is 24000, 18000
+0Input file size is 24000, 18000
+0...10....20.....30....10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90....100 - done.
+Input file size is 24000, 18000
+010.40......50......2060.10...70.......80...30.90.20....100 - done.
+.......10...204030...30...40.....50...60....70...80...90...100 - done.
+..50..40....60..50....70...60..80.....7090......80100 - done.
+...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 6000, 6000
+0Input file size is 17760, 17520
+0Input file size is 17760, 17520
+0Input file size is 6000, 6000
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 6000, 6000
+0...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...500...10...20...30...40...50...60...70...80...90...100 - done.
+...60...70...80...90...100 - done.
+0...10...20...30...40...500...10...20...30...40...50...60...70...80...90...100 - done.
+...60...70...80...90...100 - done.
+Input file size is 9600, 6000
+0Input file size is 17760, 17520
+0Input file size is 9600, 6000
+0Input file size is 17760, 17520
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 12000, 6000
+0...10...20...30....10...20...30...40...50...60...70...80...90...100 - done.
+..40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 17760, 17520
+0Input file size is 6000, 6000
+0Input file size is 6000, 6000
+0Input file size is 17760, 17520
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 6000, 6000
+0...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50.0.....60...70.0...10...20...30...40...50...60...70...80...90...100 - done.
+10....800...10...20...30...40...50...60...70...80...90...100 - done.
+.20.....90.30...40...50...100 - done.
+...60...70...80...90...100 - done.
+Input file size is 17760, 17520
+0Input file size is 17760, 17520
+0Input file size is 24000, 18000
+0Input file size is 24000, 18000
+0...10....20......10...20...30...40...50....60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+.Input file size is 24000, 18000
+030.10...40.......50...10.2060......70.....80...2030..90.....10...20.....30...40..100 - done.
+.....50...6030...70...80...90...100 - done.
+40......4050......5060......6070......80.70....90...80..100 - done.
+..90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 6000, 6000
+0Input file size is 17760, 17520
+0Input file size is 6000, 6000
+0Input file size is 17760, 17520
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 6000, 6000
+0...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...500...10...20...30...40...50...60...70...80...90...100 - done.
+...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 9600, 6000
+0Input file size is 17760, 17520
+0Input file size is 9600, 6000
+0Input file size is 17760, 17520
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 12000, 6000
+0...10...20...30...40...50...60.....10...20...30...40...50.70...80...90...100 - done.
+...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 17760, 17520
+0Input file size is 6000, 6000
+0Input file size is 6000, 6000
+0Input file size is 17760, 17520
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 6000, 6000
+0...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+0...0...10...10..0...10...20...30...40...50...60...70...80...90...100 - done.
+.20..20..0...10...20...30...40...50...60...70...80...90...100 - done.
+.30..30...40....40.50....50.....60.60....70..70....80.80....90..90...100 - done.
+...100 - done.
+Input file size is 17760, 17520
+0Input file size is 17760, 17520
+0Input file size is 24000, 18000
+0Input file size is 24000, 18000
+0...10....20.....30..10.40...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+.Input file size is 24000, 18000
+0.....50.....2060.....7010......80...30.90.....100 - done.
+20.......10...2040...30...40......50...6030...70...80...90...100 - done.
+..50....40..60....50..70.....6080......9070.....100 - done.
+.80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 17760, 17520
+0Input file size is 6000, 6000
+0Input file size is 17760, 17520
+0Input file size is 6000, 6000
+0...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 6000, 6000
+0...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...500...10...20...30...40...50...60...70...80...90...100 - done.
+...60...70...80...90...100 - done.
+0...10...20...30...40...500...10...20...30...40...50...60...70...80...90...100 - done.
+...60...70...80...90...100 - done.
+Input file size is 17760, 17520
+0Input file size is 9600, 6000
+0Input file size is 9600, 6000
+0Input file size is 17760, 17520
+0...10...20...30...40...50...60...70...80...90...100 - done.
+0...10...20...30...40...50...60...70...80...90...100 - done.
+Input file size is 12000, 6000
+0...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.
+...10...20...30...40...50...60...70...80...90...100 - done.

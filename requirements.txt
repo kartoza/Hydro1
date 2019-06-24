@@ -1,0 +1,6 @@
+Shapely==1.6.4.post2
+setuptools==40.6.3
+Rtree==0.8.3
+pysheds==0.2.5
+Fiona==1.8.4
+numpy==1.15.4
